@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 560">
+  <defs>
+    <linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#193a2b"/><stop offset="1" stop-color="#091710"/></linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#173b2b"/><stop offset="1" stop-color="#0b1b14"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="9"/></filter>
+  </defs>
+  <circle cx="280" cy="280" r="205" fill="#55d68b" opacity=".08" filter="url(#glow)"/>
+  <circle cx="280" cy="280" r="190" fill="none" stroke="#6bc9ff" stroke-opacity=".12"/>
+  <circle cx="280" cy="280" r="225" fill="none" stroke="#55d68b" stroke-opacity=".08"/>
+  <g transform="translate(118 72)">
+    <rect x="22" y="50" width="280" height="360" rx="45" fill="url(#body)" stroke="#55d68b" stroke-width="3"/>
+    <rect x="48" y="84" width="228" height="142" rx="22" fill="url(#screen)" stroke="#6bc9ff" stroke-opacity=".7" stroke-width="2"/>
+    <circle cx="162" cy="117" r="10" fill="#6bc9ff"/><circle cx="162" cy="117" r="24" fill="#6bc9ff" opacity=".1"/>
+    <path d="M84 181h155" stroke="#55d68b" stroke-width="3" stroke-linecap="round"/>
+    <text x="162" y="158" text-anchor="middle" fill="#f5faf7" font-family="Arial" font-size="18" font-weight="700">PLÁSTICO</text>
+    <text x="162" y="202" text-anchor="middle" fill="#6bc9ff" font-family="Arial" font-size="12">DESCARTE RECICLÁVEL</text>
+    <path d="M76 274h172M76 310h172M76 346h172" stroke="#254a38" stroke-width="8" stroke-linecap="round"/>
+    <rect x="72" y="250" width="176" height="112" rx="18" fill="#0a1711" stroke="#254a38"/>
+    <circle cx="160" cy="306" r="28" fill="#55d68b" opacity=".12" stroke="#55d68b" stroke-opacity=".6"/>
+    <path d="M145 306l11 11 21-25" fill="none" stroke="#55d68b" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M92 50V25h160v25" fill="none" stroke="#55d68b" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <g>
+    <path d="M70 130h90" stroke="#6bc9ff" stroke-width="2" opacity=".6"/>
+    <circle cx="64" cy="130" r="5" fill="#6bc9ff"/>
+    <path d="M405 410h90" stroke="#55d68b" stroke-width="2" opacity=".6"/>
+    <circle cx="500" cy="410" r="5" fill="#55d68b"/>
+  </g>
+</svg>

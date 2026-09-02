@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 430">
+  <rect x="15" y="15" width="590" height="400" rx="28" fill="#0b1711" stroke="#ffffff" stroke-opacity=".1"/>
+  <g font-family="Arial" text-anchor="middle">
+    <g transform="translate(48 150)">
+      <rect width="110" height="90" rx="18" fill="#10241b" stroke="#55d68b" stroke-opacity=".55"/>
+      <circle cx="55" cy="30" r="13" fill="#55d68b" opacity=".16" stroke="#55d68b"/>
+      <path d="M48 30h14M55 23v14" stroke="#55d68b" stroke-width="3"/>
+      <text x="55" y="62" fill="#f5faf7" font-size="13" font-weight="700">RESÍDUO</text>
+      <text x="55" y="79" fill="#8fa59a" font-size="10">aproximação</text>
+    </g>
+    <path d="M158 195h50" stroke="#6bc9ff" stroke-width="3"/><path d="m201 187 10 8-10 8" fill="none" stroke="#6bc9ff" stroke-width="3"/>
+    <g transform="translate(210 150)">
+      <rect width="120" height="90" rx="18" fill="#10241b" stroke="#6bc9ff" stroke-opacity=".6"/>
+      <circle cx="60" cy="30" r="13" fill="#6bc9ff" opacity=".15" stroke="#6bc9ff"/>
+      <path d="M52 30h16M60 22v16" stroke="#6bc9ff" stroke-width="3"/>
+      <text x="60" y="62" fill="#f5faf7" font-size="13" font-weight="700">SCAN</text>
+      <text x="60" y="79" fill="#8fa59a" font-size="10">sensores + câmera</text>
+    </g>
+    <path d="M330 195h50" stroke="#6bc9ff" stroke-width="3"/><path d="m373 187 10 8-10 8" fill="none" stroke="#6bc9ff" stroke-width="3"/>
+    <g transform="translate(382 150)">
+      <rect width="120" height="90" rx="18" fill="#10241b" stroke="#55d68b" stroke-opacity=".6"/>
+      <circle cx="60" cy="30" r="13" fill="#55d68b" opacity=".15" stroke="#55d68b"/>
+      <path d="M52 34l7-8 7 5 7-8" fill="none" stroke="#55d68b" stroke-width="2.5"/>
+      <text x="60" y="62" fill="#f5faf7" font-size="13" font-weight="700">IDENTIFICA</text>
+      <text x="60" y="79" fill="#8fa59a" font-size="10">classificação</text>
+    </g>
+    <path d="M442 240v48" stroke="#55d68b" stroke-width="3"/><path d="m434 280 8 10 8-10" fill="none" stroke="#55d68b" stroke-width="3"/>
+    <rect x="225" y="292" width="170" height="80" rx="18" fill="#55d68b"/>
+    <text x="310" y="326" fill="#062012" font-size="14" font-weight="700">DESCARTE CORRETO</text>
+    <text x="310" y="349" fill="#123b28" font-size="10">orientação em tempo real</text>
+  </g>
+</svg>
